@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RTProjectComponent">
+    <option name="rtExecutable" value="C:\p\amazingreact\node_modules\react-templates\bin\rt.js" />
+    <option name="nodeInterpreter" value="C:\dev\nodejsj8.7.9standalone\node.exe" />
+    <option name="pluginEnabled" value="true" />
+  </component>
+</project>
