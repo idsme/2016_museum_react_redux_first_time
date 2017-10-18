@@ -15,6 +15,7 @@ const HelloWorld = ({name}) => (
 );
 */
 
+//Whihout a nay default is File name here it is App
 export default ({ name, updateName }) => (
     <div>
         <b>Hoi, mijn naam is {name}</b>
