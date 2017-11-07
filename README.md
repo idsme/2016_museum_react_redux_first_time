@@ -2171,3 +2171,4 @@ commit 4 on the Master Practice Branch. Same line but is somthing different
 commit 5 on the Master Practice Branch. Same line but is somthing different
 
 commit 6 commit on feature branch RebasePractice2
+commit 7 commit on feature branch after rebase
