@@ -2163,5 +2163,9 @@ To resolve this:
 
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebookincubator/create-react-app/issues) or [contribute some!](https://github.com/facebookincubator/create-react-app/edit/master/packages/react-scripts/template/README.md)
 
+
+commit 1 on the RebasePracice branch.
+commit 2 on the Rebase Practice Branch.
 commit 3 on the Master branch. Same line but is somthing different
 commit 4 on the Master Practice Branch. Same line but is somthing different
+
