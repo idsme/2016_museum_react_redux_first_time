@@ -5,7 +5,7 @@ import './App.css';
 
 const UPDATE_NAME = 'update_name';
 
-/* Hello world examples
+/* Hello world examples */
 const Hello = ({name}, {henk}) => (
     <div>{`Hellow ${name} ${henk}`}</div>
 );
@@ -13,7 +13,9 @@ const Hello = ({name}, {henk}) => (
 const HelloWorld = ({name}) => (
     <div>{`Hi ${name}`}</div>
 );
-*/
+
+//Hoe doe je dit?
+const InputText = ({value}, {name}) => (<input type="text"/><div>`${name}`</div>);
 
 //Whihout a nay default is File name here it is App
 export default ({ name, updateName }) => (
@@ -32,8 +34,12 @@ export default ({ name, updateName }) => (
             updateName(e.target.value);
            }}
            />
+        <HelloWorld/>
+        <InputText name="firstName" value="peter"/>
     </div>
 );
+
+
 
 
 
