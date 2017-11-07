@@ -2168,4 +2168,5 @@ commit 1 on the RebasePracice branch.
 commit 2 on the Rebase Practice Branch.
 commit 3 on the Master branch. Same line but is somthing different
 commit 4 on the Master Practice Branch. Same line but is somthing different
+commit 5 on the Master Practice Branch. Same line but is somthing different
 
